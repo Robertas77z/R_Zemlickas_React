@@ -1,0 +1,17 @@
+.NavBar-style{
+    height: 200px;
+    width: auto;
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgb(187, 249, 79);
+}
+.NavBar-style button{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(98, 152, 234);
+    color: rgb(12, 12, 12);
+    font-size: 30px;
+    cursor: pointer;
+    border: none;
+    
+}

@@ -1,0 +1,32 @@
+.Books-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    background-color: rgb(187, 249, 79);
+  }
+  
+  .Book-style {
+    margin: 20px;
+    border: solid 3px black;
+    border-radius: 20px;
+    text-align: center;
+    height: 750px;
+    font-size: 20px;
+    width: auto;
+    background-color: rgb(157, 196, 255);
+    
+
+  }
+  .Book-style img{
+    height: 400px;
+    width: 300px;
+  }
+  .Book-style button{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+  }
